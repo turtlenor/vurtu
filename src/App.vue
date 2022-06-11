@@ -6,7 +6,7 @@
           alt="Vuetify Logo"
           class="shrink mr-2 pl-20"
           contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
+          src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_TV_2015.svghttps://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_TV_2015.svg"
           transition="scale-transition"
           width="40"
         />
