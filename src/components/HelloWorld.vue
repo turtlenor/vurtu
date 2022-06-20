@@ -3,14 +3,14 @@
     <v-row>
       <v-col>
         <v-img
-          src="https://scontent.fosl4-2.fna.fbcdn.net/v/t1.6435-9/39056495_10214340028907082_2163652468997619712_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=t6j-mbBjNcUAX99ok2g&tn=97WA1bD08EkRTirD&_nc_ht=scontent.fosl4-2.fna&oh=00_AT9M7WSIGTfNZ34CpgKfTYjHVaeej06jh1a-zrxGcTw88Q&oe=62C9ABA9"
+          src="https://scontent.fosl4-1.fna.fbcdn.net/v/t1.18169-9/24177099_10214220108752916_6131087866811215149_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=9JlWdSZ9kbkAX9BE1oW&_nc_ht=scontent.fosl4-1.fna&oh=00_AT9YPlvGOatmIRbJVC68WMglpclmTPAxFMHhVLgX7Tt-_A&oe=62D789E6"
           transition="scale-transition"
           max-width="300"
           max-height="300"
           class="pa-4 secondary text-no-wrap rounded-pill"
         >
         </v-img>
-        <h2>Vil du suge en fjært Edvard?</h2>
+        <h2>Vil du suge en fjært Frida?</h2>
       </v-col>
     </v-row>
     <v-row>
